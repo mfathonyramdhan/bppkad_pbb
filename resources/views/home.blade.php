@@ -179,7 +179,7 @@
 
 
 
-
+        <!-- 
         <section id="faq" class="faq section-bg">
             <div class="container" data-aos="fade-up">
                 <h2 data-aos="fade-up" class="section-title text-center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">Frequently Asked Question</h2>
@@ -283,7 +283,7 @@
                     </li>
                 </ul>
             </div>
-        </section>
+        </section> -->
 
         <section id="clients" class="clients section-bg">
             <div class="container" data-aos="fade-up">
